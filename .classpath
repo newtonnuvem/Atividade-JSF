@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="cadastroUsuarios/src/main/java"/>
+	<classpathentry kind="lib" path="cadastroUsuarios/src/main/webapp/WEB-INF/lib/javax.faces-2.3.0 (1).jar"/>
+	<classpathentry kind="output" path="cadastroUsuarios/build/classes"/>
+</classpath>
